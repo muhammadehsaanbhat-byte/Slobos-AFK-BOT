@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "molamola.aternos.host",
+    "ip": "mudminnow.aternos.host",
     "port": 22650,
     "version": "1.21.1"
   },
